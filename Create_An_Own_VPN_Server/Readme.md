@@ -7,6 +7,7 @@ This project guides you through the process of setting up your own Virtual Priva
 - AWS - EC2 Instance.
 
 # Project Setup
+Refer to this blog for detailed explanation STEP 1 and STEP 2. [BLOG LINK](https://nakamotosecurity.blogspot.com/2024/07/the-ultimate-guide-to-setting-up.html )
 ### STEP 1: Launch an EC2 Instance
 - Log in to AWS Management Console: Navigate to the EC2 Dashboard.
 - Create a New Instance:
@@ -57,3 +58,11 @@ Note: refer to the blog, for detailed steps for OpenVPN coonfiguration.
 
 ## Conclusion
 Setting up your own VPN server provides enhanced security and privacy for your internet activities. This project demonstrates the step-by-step process using AWS EC2 and OpenVPN, ensuring you have control over your VPN server configuration and management.
+
+## Resources
+- https://aws.amazon.com
+- https://www.canva.com/design/DAGKZaDvFmU/dxGnHNP4LKOU00PmPw0_8w/view?utm_content=DAGKZaDvFmU&utm_campaign=designshare&utm_medium=link&utm_source=editor
+- https://openvpn.net/as-docs/aws-ec2.html#strengthen-security-76631
+- https://nakamotosecurity.blogspot.com/2024/07/the-ultimate-guide-to-setting-up.html 
+
+
